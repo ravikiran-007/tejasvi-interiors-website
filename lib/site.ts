@@ -147,22 +147,22 @@ export const portfolio = [
 
 export const testimonials = [
   {
-    name: "Ananya Rao",
-    role: "Villa Owner",
+    name: "Inna Reddy",
+    role: "Hyderabad",
     quote:
-      "Tejasvi Interiors brought calm discipline to a large project. The finish quality, storage planning, and site coordination were excellent."
+      "The kitchen woodwork was done exceptionally well. The quality, finishing, and attention to detail are excellent. We are very happy with the workmanship and the overall look of the kitchen. Thank you for the great job!"
   },
   {
-    name: "Rohit Mehta",
-    role: "Apartment Owner",
+    name: "Venkatesheswar Rao",
+    role: "Gachibowli",
     quote:
-      "Our kitchen and wardrobes were delivered exactly as promised. The team understood premium detailing without making the process complicated."
+      "What impressed me most was the attention to detail. From the TV unit to the modular kitchen, every measurement was accurate and the workmanship was excellent. Even after completion, the team was responsive whenever we needed support."
   },
   {
-    name: "Priya Nair",
-    role: "Homeowner",
+    name: "Prasad",
+    role: "Kukatpally",
     quote:
-      "They listened carefully, suggested practical upgrades, and created a living room that feels elegant but still very comfortable every day."
+      "I was worried about coordinating different vendors, but Tejasvi Interiors handled everything smoothly. The design suggestions were practical, the execution was neat, and the final result made our apartment feel much more spacious and organized."
   }
 ];
 
